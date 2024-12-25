@@ -1,10 +1,9 @@
-## Hi there 👋
+## Hello! I'm Yoko Odenda🍢
 
 <!--
 **odendayoko/odendayoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails)](https://skillicons.dev)
+
+## 🏃‍♀️ Activities
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odendayoko&show_icons=true&title_color=FF8C42&icon_color=FFA500&text_color=333333&bg_color=FCEBB6,F9D976,F8B195)
