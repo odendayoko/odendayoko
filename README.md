@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,ruby,rails)](https://skillicons.dev)
 
 ## 🏃‍♀️ Activities
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odendayoko&show_icons=true&title_color=FF8C42&icon_color=FFA500&text_color=333333&bg_color=FCEBB6,F9D976,F8B195)
